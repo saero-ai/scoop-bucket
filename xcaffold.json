@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/saero-ai/xcaffold/releases/download/v0.2.0/xcaffold_windows_amd64.zip",
+            "bin": [
+                "xcaffold.exe"
+            ],
+            "hash": "994bbc25c2d9312370cbb246dc1a472ed9ac06078fa5ff4afe8c218afb31b2d6"
+        }
+    },
+    "homepage": "https://github.com/saero-ai/xcaffold",
+    "license": "Apache-2.0",
+    "description": "Deterministic agent configuration compiler for AI coding platforms. Compile .xcaf blueprints into native agent configurations."
+}
