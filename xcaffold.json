@@ -1,12 +1,12 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/saero-ai/xcaffold/releases/download/v0.4.1/xcaffold_windows_amd64.zip",
+            "url": "https://github.com/saero-ai/xcaffold/releases/download/v0.4.2/xcaffold_windows_amd64.zip",
             "bin": [
                 "xcaffold.exe"
             ],
-            "hash": "4f2c18a8e536751ff6511e4b68481cfd0c4031b61c97bb548a8f04a302e97b7d"
+            "hash": "5424238db5e4fb8836ad46a26a3ea4f8d8c795ee357694be45f8b469173c937e"
         }
     },
     "homepage": "https://github.com/saero-ai/xcaffold",
